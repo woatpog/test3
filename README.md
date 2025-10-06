@@ -2,10 +2,10 @@
 
 
 
-swappp
+swaps
 
-wastedd
+wasted
 
-lofi
+lo-fi
 
-chek
+cheek
